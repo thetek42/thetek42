@@ -8,11 +8,11 @@
 <a href="mailto:git@thetek.de">
   <img align="left" alt="git@thetek.de" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/mail.svg" />
 </a>
-
-<a href="mailto:git@thetek.de">
+<a href="https://discordapp.com/users/579409891202957313">
   <img align="left" alt="thetek#2418" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/discord.svg" />
 </a>
 
+<br><br>
 
 #### 🧰 Languages and Tools
 
