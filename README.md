@@ -9,6 +9,11 @@
   <img align="left" alt="git@thetek.de" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/mail.svg" />
 </a>
 
+<a href="mailto:git@thetek.de">
+  <img align="left" alt="thetek#2418" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/discord.svg" />
+</a>
+
+
 #### 🧰 Languages and Tools
 
 <img align="left" alt="linux" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/linux.svg" />
