@@ -1,12 +1,12 @@
 ### Hi there, I'm thetek 👋
 
-- 🔭 I'm currently a student, but will study computer science later this year!
-- 🌱 I like doing web development (mainly frontend), python scripting and coding GUIs with Vala
+- 🔭 I'm currently studying computer science.
+- 🌱 I like doing web development (mainly frontend), python scripting, GTK programming with Vala and all sorts of other stuff.
 
 #### 📫 How to reach me
 
-<a href="mailto:git@thetek.de">
-  <img align="left" alt="git@thetek.de" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/mail.svg" />
+<a href="mailto:contact@thetek.de">
+  <img align="left" alt="contact@thetek.de" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/mail.svg" />
 </a>
 <a href="https://discordapp.com/users/579409891202957313">
   <img align="left" alt="thetek#2418" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/discord.svg" />
