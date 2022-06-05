@@ -12,6 +12,7 @@
   <img align="left" alt="thetek#2418" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/discord.svg" />
 </a>
 
+<!--
 <br><br>
 
 #### 🧰 Languages and Tools
@@ -27,6 +28,7 @@
 <img align="left" alt="flutter" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/flutter.svg" />
 <img align="left" alt="github" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/github.svg" />
 <img align="left" alt="git" src="https://raw.githubusercontent.com/thetek42/thetek42/main/icons/git.svg" />
+-->
 
 
 
